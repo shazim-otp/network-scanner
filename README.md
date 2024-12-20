@@ -3,7 +3,7 @@ this tool is used to find connected devices in an internet
 # install python
 sudo apt update
 
-#For Debian/Ubuntu-based distributions:
+# For Debian/Ubuntu-based distributions:
 
 sudo apt install python3
 
