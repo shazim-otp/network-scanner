@@ -22,7 +22,7 @@ sudo apt install python3-pip
 
 pip install scapy
 # file installation
-git clone https://github.com/shazim-otp/network-scanner/tree/main
+git clone https://github.com/shazim-otp/network-scanner
 
 cd nscan.py
 
